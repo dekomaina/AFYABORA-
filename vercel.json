@@ -1,6 +1,6 @@
 {
   "root": "afya-bora-medical-main",
-  "buildCommand": "pnpm install && pnpm build",
+  "buildCommand": "pnpm build",
   "installCommand": "pnpm install",
   "outputDirectory": "dist/public",
   "framework": "vite",
